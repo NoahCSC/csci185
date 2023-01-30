@@ -1,5 +1,14 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
 }
+header {background-color:gray;
+    padding: 30px;
+
+}
+main > section{
+    border: solid 1px black;
+    display: inline-block;
+    margin: 30px;
+}
 
 /* Your code here */
