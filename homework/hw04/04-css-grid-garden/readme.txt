@@ -1,1 +1,1 @@
-Save your completed Flexbox froggy screenshot in this folder.
+Save your completed Grid garden screenshot in this folder.
