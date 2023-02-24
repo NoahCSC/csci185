@@ -5,12 +5,51 @@
 }
 
 body {
-    background-color: #00FFFF;
+   margin: 10px;
+    background-color: #2A2C24;
     margin: 0px;
     font-family: Audiowide, cursive;
+    color: #CFCFEA;
 }
 
 p, a, li {
     line-height: 1.5em;
     font-size: 1.1em;
+}
+#inspiration {
+    background-color: #2A2C24;
+    color:#CFCFEA;
+}
+a:link {
+    color: blue;
+  }
+  a:visited {
+    color: blueviolet;
+  }
+  header {
+    background-color: #2A2C24;
+    color: #CFCFEA;
+    display: flex;
+    justify-content: center;
+  }
+  main {
+    display: flex;
+    column-gap: 60px;
+    justify-content: center;
+  }
+
+#sun {
+
+        display: flex;
+        justify-content: center;
+    
+    
+}
+@media (max-width:800px) {
+    main {
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        align-items: center;
+    }
 }
