@@ -1,14 +1,14 @@
-1. What corrections did you have to make?
+1. What corrections did you have to make? I had to add page language, alt text, and a nav section for the links.
 
 Your answers here.
 
-1. Do you think your website is usable if you turn off the CSS? Why or why not?
+1. Do you think your website is usable if you turn off the CSS? Yes. Why or why not?
 
-Your answers here.
+Your answers here. Yes, because all the info is still labeled by class and usable.
 
 1. Is your site is tabbable? In other words, without the use of the mouse, are all the links and buttons accessible using the tab key?
 
-Your answers here.
+Your answers here. Yes, except for the form because I don't know how to set up form labels properly.
 
 
 

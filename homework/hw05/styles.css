@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&family=Ubuntu:wght@300&display=swap');
 html {
     scroll-behavior: smooth;
 }
@@ -11,3 +12,73 @@ body {
 }
 
 /* Your CSS Code Here! */
+nav {
+    display: flex;
+    justify-content: flex-end;
+    background-color: #BD632F;
+    text-decoration: none;
+
+}
+ul {
+  display: flex;
+    align-items: right; 
+  list-style-type: none;
+  justify-content: space-between; 
+  column-gap: 10px;
+}
+a {
+    color: black;
+    text-decoration: none;
+
+    
+}
+header {
+    background-color: #3BB273;
+    font-family: Ubuntu;
+    
+}
+header div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  
+}
+#about > h2 {
+    font-family: Ubuntu;
+    display: flex;
+    justify-content: center;
+}
+#about {
+    display: flex;
+    justify-content: left;
+}
+#profile {
+    border: 2px solid;
+  border-radius: 100px;
+}
+.project-holder {
+    background-color: lightgray;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+   column-count: 2;
+   column-gap: 10px;
+   
+    
+}
+.card {
+    grid-column: 1;
+    margin-right: 50px;
+}
+.contact-details {
+display: flex;
+justify-content: left;
+
+}
+.contact-info {
+    display: flex;
+    justify-content: right;
+}
+.button {
+    background-color: lightgray;
+}

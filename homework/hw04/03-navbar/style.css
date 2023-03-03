@@ -19,12 +19,14 @@ nav {
    width: 100%;
    padding: 10px;
    height: auto;
+   justify-content: space-between;
 }
 ul {
     display: flex;
     list-style-type: none;
     align-items: flex-end;
     justify-content: right;
+    column-gap: 10px;
 }
 nav a {
     color: #f2f2f2;
