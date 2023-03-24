@@ -20,7 +20,6 @@ document.querySelector('main').innerHTML = `
 //     const b = Math.floor(Math.random() * 255);
 //     return `rgb(${r}, ${g}, ${b})`;
 // }
-//
 // document.querySelector('main').innerHTML = `
 //     <section class="card" style="background-color: ${getBackgroundColor()}" >
 //         <img src="${pic}" />
