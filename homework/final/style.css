@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: lightgray;
+}
+main {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 25px;
+    row-gap: 20px;
+   justify-content: center;
+  
+}
+section {
+   display: grid;
+   grid-template-columns: auto 150px;
+   border: solid 5px cyan;
+
+}
+img {
+    width: 75%;
+}
+nav {
+    display: flex;
+    
+}
+a {
+color: orange;
+text-decoration: none;
+}
