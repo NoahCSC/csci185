@@ -13,7 +13,7 @@ main {
 section {
    display: grid;
    grid-template-columns: auto 150px;
-   border: solid 5px cyan;
+   border: solid 2px goldenrod;
 
 }
 img {
@@ -21,9 +21,15 @@ img {
 }
 nav {
     display: flex;
+    padding: 10px;
+    justify-content: space-between;
+    background-color: blue;
     
 }
 a {
 color: orange;
 text-decoration: none;
+}
+#duck {
+    width:25%;
 }
