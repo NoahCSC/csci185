@@ -1,0 +1,49 @@
+#stomach {
+    width: 35%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    float: right;
+    margin: 5px;
+    padding: 20px;
+  height: 400px;
+}
+#food {
+    width: 40%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    float: left;
+    margin: 5px;
+    padding: 20px;
+    height: 350px;
+}
+#lab {
+    width: 35%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  float: right;
+    height: 300px;
+ 
+    
+}
+
+
+#glass {
+    width: 35%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 300px;
+}
+body {
+    background-color: lightgray;
+    font-size: x-large;
+    margin-left: 50px;
+    margin-right: 50px;
+  
+    height: 100vh;
+  
+}
+
